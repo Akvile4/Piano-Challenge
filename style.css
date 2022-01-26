@@ -83,4 +83,5 @@ h2 {
 #buttonH:hover,
 #buttonJ:hover {
   cursor: pointer;
+  opacity: 0.75;
 }
